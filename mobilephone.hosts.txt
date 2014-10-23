@@ -1,5 +1,6 @@
  
 #blocks.hosts.txt 
+
 127.0.0.1 www.u77.com
 127.0.0.1 u77.com
  
