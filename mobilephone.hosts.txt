@@ -1,4 +1,4 @@
-Generated on 2014-11-03 
+#Generated on 2014-11-03 
 #blocks.hosts.txt 
 
 127.0.0.1 www.u77.com
