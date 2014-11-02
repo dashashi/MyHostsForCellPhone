@@ -1742,7 +1742,7 @@
 108.160.166.253	api-notify.dropbox.com
 50.17.213.189	api-content.dropbox.com
 108.160.166.61	api-d.dropbox.com
-108.160.165.212	client-lb.dropbox.com
+108.160.166.138	client-lb.dropbox.com
 108.160.172.65	block.dropbox.com
 108.160.165.189	d.dropbox.com
 54.225.222.141	dl.dropbox.com
