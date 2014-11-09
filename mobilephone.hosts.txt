@@ -1,4 +1,4 @@
-#Generated on 2014-11-03 
+#Generated on 2014-11-10 
 #blocks.hosts.txt 
 
 127.0.0.1 www.u77.com
@@ -630,8 +630,8 @@
 #google.hosts.txt 
 #Google Services START
 #GoogleAccounts↓
-64.233.182.84	accounts.google.com
-64.233.182.84	accounts.l.google.com
+64.233.182.83	accounts.google.com
+64.233.182.83	accounts.l.google.com
 #GoogleAccounts↑
 #www.google.com↓
 64.233.182.106	www.google.com
@@ -1070,27 +1070,27 @@
 64.233.182.132	sp9.googleusercontent.com
 #Googleusercontent↑
 #Gstatic↓
-64.233.182.94	www.gstatic.com
-64.233.182.94	ssl.gstatic.com
-64.233.182.120	csi.gstatic.com
-64.233.182.94	csi.l.google.com
-64.233.182.120	maps.gstatic.com
-64.233.182.120	fonts.gstatic.com
-64.233.182.120	encrypted-tbn0.gstatic.com
-64.233.182.120	encrypted-tbn1.gstatic.com
-64.233.182.120	encrypted-tbn2.gstatic.com
-64.233.182.120	encrypted-tbn3.gstatic.com
-64.233.182.120	encrypted-tbn4.gstatic.com
-64.233.182.120	encrypted-tbn5.gstatic.com
-64.233.182.120	encrypted-tbn6.gstatic.com
-64.233.182.120	g0.gstatic.com
-64.233.182.120	g1.gstatic.com
-64.233.182.120	g2.gstatic.com
-64.233.182.120	g3.gstatic.com
-64.233.182.120	g4.gstatic.com
-64.233.182.120	g5.gstatic.com
-64.233.182.120	g6.gstatic.com
-64.233.182.120	g7.gstatic.com
+64.233.182.93	www.gstatic.com
+64.233.182.93	ssl.gstatic.com
+64.233.182.122	csi.gstatic.com
+64.233.182.93	csi.l.google.com
+64.233.182.122	maps.gstatic.com
+64.233.182.122	fonts.gstatic.com
+64.233.182.122	encrypted-tbn0.gstatic.com
+64.233.182.122	encrypted-tbn1.gstatic.com
+64.233.182.122	encrypted-tbn2.gstatic.com
+64.233.182.122	encrypted-tbn3.gstatic.com
+64.233.182.122	encrypted-tbn4.gstatic.com
+64.233.182.122	encrypted-tbn5.gstatic.com
+64.233.182.122	encrypted-tbn6.gstatic.com
+64.233.182.122	g0.gstatic.com
+64.233.182.122	g1.gstatic.com
+64.233.182.122	g2.gstatic.com
+64.233.182.122	g3.gstatic.com
+64.233.182.122	g4.gstatic.com
+64.233.182.122	g5.gstatic.com
+64.233.182.122	g6.gstatic.com
+64.233.182.122	g7.gstatic.com
 210.242.125.98	mt0.gstatic.com
 210.242.125.98	mt1.gstatic.com
 210.242.125.98	mt2.gstatic.com
@@ -1109,8 +1109,8 @@
 210.242.125.98	t7.gstatic.com
 #Gstatic↑
 #Google other↓
-203.208.41.149	mail.google.com
-203.208.41.149	isolated.mail.google.com
+203.208.41.159	mail.google.com
+203.208.41.159	isolated.mail.google.com
 64.233.182.101	history.google.com
 64.233.182.112	adwords.google.com
 64.233.182.113	feedburner.google.com
