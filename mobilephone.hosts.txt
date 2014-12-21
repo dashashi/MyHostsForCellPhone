@@ -1,4 +1,4 @@
-#Generated on 2014-12-17 
+#Generated on 2014-12-21 
 #blocks.hosts.txt 
 
 127.0.0.1 www.u77.com
@@ -630,8 +630,8 @@
 #google.hosts.txt 
 #Google Services START
 #GoogleAccounts↓
-64.233.187.84	accounts.google.com
-64.233.187.84	accounts.l.google.com
+64.233.187.83	accounts.google.com
+64.233.187.83	accounts.l.google.com
 #GoogleAccounts↑
 #www.google.com↓
 64.233.187.145	www.google.com
@@ -1109,8 +1109,8 @@
 64.233.187.115	t7.gstatic.com
 #Gstatic↑
 #Google other↓
-203.208.41.159	mail.google.com
-203.208.41.159	isolated.mail.google.com
+203.208.41.158	mail.google.com
+203.208.41.158	isolated.mail.google.com
 64.233.187.101	history.google.com
 64.233.187.112	adwords.google.com
 64.233.187.113	feedburner.google.com
