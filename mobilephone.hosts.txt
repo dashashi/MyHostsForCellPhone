@@ -1070,10 +1070,10 @@
 64.233.187.132	sp9.googleusercontent.com
 #Googleusercontent↑
 #Gstatic↓
-64.233.187.93	www.gstatic.com
-64.233.187.93	ssl.gstatic.com
+216.58.218.195	www.gstatic.com
+216.58.218.195	ssl.gstatic.com
 64.233.187.122	csi.gstatic.com
-64.233.187.93	csi.l.google.com
+216.58.218.195	csi.l.google.com
 64.233.187.122	maps.gstatic.com
 64.233.187.122	fonts.gstatic.com
 64.233.187.122	encrypted-tbn0.gstatic.com
@@ -1214,7 +1214,7 @@
 216.58.218.192	desktop.l.google.com
 216.58.218.192	desktop2.google.com
 216.58.218.192	developers.google.com
-216.58.218.192	ditu.google.com
+216.58.218.192	ditu.google.com
 216.58.218.192	dl.google.com
 216.58.218.192	dl.l.google.com
 216.58.218.192	dl-ssl.google.com
@@ -1685,7 +1685,7 @@
 #203.208.46.90	r11---sn-npo7enee.c.android.clients.google.com
 #203.208.46.90	r12---sn-npo7enee.c.android.clients.google.com
 #203.208.46.90	r13---sn-npo7enee.c.android.clients.google.com
-#203.208.46.90	r14---sn-npo7enee.c.android.clients.google.com
+#203.208.46.90	r14---sn-npo7enee.c.android.clients.google.com
 #203.208.46.90	r15---sn-npo7enee.c.android.clients.google.com
 #203.208.46.90	r16---sn-npo7enee.c.android.clients.google.com
 #203.208.46.90	r17---sn-npo7enee.c.android.clients.google.com
