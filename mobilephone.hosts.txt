@@ -1,4 +1,4 @@
-#Generated on 2014-12-30 
+#Generated on 2015-01-01 
 #blocks.hosts.txt 
 
 127.0.0.1 www.u77.com
@@ -629,6 +629,10 @@
 #AdBlock END 
 #google.hosts.txt 
 #Google Services START
+#gmail
+64.233.160.108	imap.google.com
+64.233.169.108	pop.google.com
+74.125.30.108	smtp.gmail.com
 #GoogleAccounts↓
 64.233.187.83	accounts.google.com
 64.233.187.83	accounts.l.google.com
@@ -735,7 +739,7 @@
 #203.208.46.134	docs8.google.com
 #203.208.46.134	docs9.google.com
 64.233.168.189	0.docs.google.com
-64.233.168.189	0.drive.google.com
+64.233.168.189	0.drive.google.com
 64.233.168.189	1.docs.google.com
 64.233.168.189	1.drive.google.com
 64.233.168.189	2.docs.google.com
@@ -898,7 +902,7 @@
 216.58.218.193	doc-0i-7o-docs.googleusercontent.com
 216.58.218.193	doc-0j-7o-docs.googleusercontent.com
 216.58.218.193	doc-0k-7o-docs.googleusercontent.com
-216.58.218.193	doc-0l-7o-docs.googleusercontent.com
+216.58.218.193	doc-0l-7o-docs.googleusercontent.com
 216.58.218.193	doc-0m-7o-docs.googleusercontent.com
 216.58.218.193	doc-0n-7o-docs.googleusercontent.com
 216.58.218.193	doc-0o-7o-docs.googleusercontent.com
@@ -1044,7 +1048,7 @@
 216.58.218.193	geo2.ggpht.com
 216.58.218.193	geo3.ggpht.com
 216.58.218.193	geo4.ggpht.com
-216.58.218.193	geo5.ggpht.com
+216.58.218.193	geo5.ggpht.com
 216.58.218.193	geo6.ggpht.com
 216.58.218.193	ci1.googleusercontent.com
 216.58.218.193	ci2.googleusercontent.com
@@ -1100,7 +1104,7 @@
 216.58.218.192	mt6.gstatic.com
 216.58.218.192	mt7.gstatic.com
 216.58.218.192	t0.gstatic.com
-216.58.218.192	t1.gstatic.com
+216.58.218.192	t1.gstatic.com
 216.58.218.192	t2.gstatic.com
 216.58.218.192	t3.gstatic.com
 216.58.218.192	t4.gstatic.com
@@ -1381,7 +1385,7 @@
 216.58.218.192	imoutohost.googlecode.com
 216.58.218.192	smarthosts.googlecode.com
 216.58.218.192	huhamhire-hosts.googlecode.com
-216.58.218.192	haoutil.googlecode.com
+216.58.218.192	haoutil.googlecode.com
 216.58.218.192	blogsearch.google.cn
 216.58.218.192	g.cn
 216.58.218.192	www.g.cn
